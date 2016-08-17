@@ -19,3 +19,4 @@
   2. **Important!** Make backup of both files.
   3. Replace these files with mine.
   4. Restart IDE and Enjoy! \:)
+  5. If you are wondering, I am using Monaco font. If you dont have it, just google it , download it and install it \:)
